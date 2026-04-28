@@ -5,7 +5,7 @@ An end-to-end security pipeline designed to scan, decode, and analyze QR codes f
 ---
 
 ## 🚀 Execution Flow
-The application follows an 8-step automated process to ensure the safety of a QR code:
+The application follows an Eight(8)-step automated process to ensure the safety of a QR code:
 
 1. **User Interface:** The user accesses the tool via a **Streamlit** web interface.
 2. **Image Upload:** Supports common image formats including **PNG, JPG, and WEBP**.

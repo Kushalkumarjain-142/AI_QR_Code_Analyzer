@@ -1,6 +1,6 @@
 import base64
-import requests
 import streamlit as st
+import requests
 from PIL import Image
 from pyzbar.pyzbar import decode
 from cassandra.cluster import Cluster
